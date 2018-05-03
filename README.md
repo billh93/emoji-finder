@@ -1,7 +1,7 @@
 # Emoji Finder
 
 ## What It Is
-Emoji Finder is entirely built on React utilizing emojione library to display
+Emoji Finder is built on React utilizing emojione library to display
 the emoji icons on the webpage.
 
 ## Required Libraries and Dependencies
