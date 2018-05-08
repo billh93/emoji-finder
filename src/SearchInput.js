@@ -11,6 +11,7 @@ class SearchInput extends PureComponent {
       <div className="component-search-input">
         <div>
           <input
+            placeholder="Type up emoji Ex. Dog"
             onChange={this.handleChange}
           />
         </div>

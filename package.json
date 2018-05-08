@@ -2,7 +2,7 @@
   "name": "emoji-finder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://billh93.github.io/emoji-finder",
+  "homepage": " https://billh93.github.io/emoji-finder",
   "devDependencies": {
     "gh-pages": "^1.1.0",
     "react-scripts": "^1.0.17"

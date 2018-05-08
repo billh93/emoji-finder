@@ -8,7 +8,7 @@ class App extends PureComponent {
   constructor(props) {
     super(props);
     this.state = {
-      filteredEmoji: filterEmoji('', 20),
+      filteredEmoji: filterEmoji('', 0),
     };
   }
 
@@ -20,7 +20,7 @@ class App extends PureComponent {
 
   render() {
     return (
-      <div>
+      <div id="container">
         <Header/>
         <SearchInput
           textChange={this.handleSearchChange}
